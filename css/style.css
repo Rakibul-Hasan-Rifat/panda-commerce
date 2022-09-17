@@ -1,0 +1,21 @@
+.panda-primary-bg {
+    background-color: #FEEAE9;
+}
+
+.panda-btn-bg {
+    border: none;
+    outline: none;
+    background-image: linear-gradient(to bottom, #FF589B, #FF136F);
+}
+
+.panda-watch-category-bg {
+    background-image: linear-gradient(to bottom, #FF9C35, #FFD019);
+}
+
+.panda-bag-category-bg {
+    background-image: linear-gradient(to bottom, #FF589B, #FF136F);
+}
+
+.panda-shoe-category-bg {
+    background-image: linear-gradient(to bottom, #4289FF, #3F07F8);
+}
